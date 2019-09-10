@@ -2,7 +2,7 @@
 
 
 
-<h3>First thing we did, was to come up with some objects, the result is shown below</h3>
+<h3>First thing we did, was to come up with some data:</h3>
 
 ```pl
 
