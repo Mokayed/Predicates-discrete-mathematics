@@ -2,7 +2,7 @@
 
 
 
-<p>first thing we did, was to come up with some objects, the result is shown below</p>
+<p>First thing we did, was to come up with some objects, the result is shown below</p>
 
 ```pl
 
@@ -33,7 +33,7 @@ student(ali).
 student(tom).
 
 ```
-<p>secondly, we wrote down some ideas for methods, that had the requirement of including facts and rules</p>
+<p>Secondly, we wrote down some ideas for methods, that had the requirement of including facts and rules</p>
 
 <ul>
   <li>get all information on a student</li>
@@ -44,7 +44,7 @@ student(tom).
   <li>get all dates</li>
 </ul>
 
-<p>if you want to see the original file we ended up with, click <a href="/ass2.pl">here</a></p>
+<p>To see the original file, click <a href="/ass2.pl">here</a></p>
 
 <p>Commands</p>
 <ul>
