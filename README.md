@@ -1,6 +1,16 @@
 <h1>Assignment 2 <br/>Discrete Mathematics: Student Calendar</h1>
 
+ <h3>Programming in logic</h3>
+ 
+<p>Create a program i Prolog.
+You can either invent your own problem to solve or use one of the ideas
+described below. The program should include facts and rules. Also a set of
+meaningful questions to the program should be presented.
+Please push to github and supply a README.md file.</p>
 
+<h4>Student calendar</h4>
+<p>Create a program that models students, classes, rooms, dates, and their
+relations.</p>
 
 <h3>First thing we did, was to come up with some data <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji>:</h3>
 
