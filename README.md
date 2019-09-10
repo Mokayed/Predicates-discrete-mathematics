@@ -44,4 +44,4 @@ student(tom).
   <li>get all dates</li>
 </ul>
 
-<p>if you want to see the original file we ended up with, click <a href="/bla.pl">here</a></p>
+<p>if you want to see the original file we ended up with, click <a href="/ass2.pl">here</a></p>
