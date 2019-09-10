@@ -46,7 +46,8 @@ student(tom).
 
 <p>To see the original file, click <a href="/ass2.pl">here</a></p>
 
-<h3>Commands</h3>
+<h3>Commands in SWI-Prolog</h3>
+<p>Open the file in SWI then run those commands:</p>
 <ul>
   <li>getStudentInfo(hallur) .</li>
   <li>sameClass(mo,hallur) .</li>
