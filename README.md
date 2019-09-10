@@ -17,7 +17,7 @@ hej mo du må gerne sætte objekterne ind her
 <ul>
   <li>get all information on a student</li>
   <li>does student a go in the same class as student b</li>
-  <li>does student a go to class the same date as student b</li>
+  <li>does student a go to class at the same date as student b</li>
   <li>get all students</li>
   <li>get all classes</li>
   <li>get all dates</li>
