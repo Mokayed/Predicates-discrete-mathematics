@@ -45,3 +45,14 @@ student(tom).
 </ul>
 
 <p>if you want to see the original file we ended up with, click <a href="/ass2.pl">here</a></p>
+
+<p>Commands</p>
+<ul>
+  <li>getStudentInfo(hallur) .</li>
+  <li>sameClass(mo,hallur) .</li>
+  <li>sameDate(ali, tom) .</li>
+  <li>getAllDates() .</li>
+  <li>getAllStudents() .</li>
+  <li>getAllClasses() .</li>
+</ul>
+
