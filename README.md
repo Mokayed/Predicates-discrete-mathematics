@@ -1,10 +1,9 @@
 # Predicates-discrete-mathematics
+<h1>Assignment 2 Discrete Mathematics: Student Calendar</h1>
 
-<h1>Student calendar<h1>
+<h2>we came up with these objects: </h2>
 
-<p>We picked the "Student calendar" project for the assigment 02 in discrete-mathematics, we created 4 difrent object:
-1-Students
-2-Class's
-3-
+```pl
+test
 
-</p>
+```
