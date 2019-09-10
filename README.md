@@ -8,7 +8,7 @@ described below. The program should include facts and rules. Also a set of
 meaningful questions to the program should be presented.
 Please push to github and supply a README.md file.</p>
 
-<h4>Student calendar <img src="https://image.flaticon.com/icons/svg/201/201818.svg" width="50" height="50" alt="Student free icon" title="Student free icon"></h4>
+<h4>Student calendar <img src="https://image.flaticon.com/icons/svg/201/201818.svg" width="38" height="38" alt="Student free icon" title="Student free icon"></h4>
 <p>Create a program that models students, classes, rooms, dates, and their
 relations.</p>
 
