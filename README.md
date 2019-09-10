@@ -57,7 +57,7 @@ student(tom).
 <p>To see the original file, click <a href="/ass2.pl">here  <g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji> </a></p>
 
 <h3>Commands in SWI-Prolog <img alt="" src="https://cdn.portableapps.com/SWI-PrologPortable_128.png" height="50" width="50" class="main-app-logo"></h3>
-<p>Open the file in SWI then run those commands:</p>
+<p>Open the file in SWI then run those commands <img src="https://image.flaticon.com/icons/svg/0/656.svg" width="30" height="30" alt="Command Window free icon" title="Command Window free icon">:</p>
 <ul>
   <li>getStudentInfo(hallur) .
     
