@@ -1,6 +1,6 @@
 <h1>Assignment 2 <br/>Discrete Mathematics: Student Calendar</h1>
 
- <h3>Programming in logic</h3>
+ <h3>Programming in logic <img src="https://cdn2.iconfinder.com/data/icons/service-options-1/512/intellect_v4-512.png" alt="brain organ, brainstorm, genius, head, logic, memory, strategy icon" class="d-block mx-auto" height="auto" width="40"></h3>
  
 <p>Create a program i Prolog.
 You can either invent your own problem to solve or use one of the ideas
