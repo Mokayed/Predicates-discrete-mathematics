@@ -2,7 +2,7 @@
 
 
 
-<h3>First thing we did, was to come up with some data:</h3>
+<h3>First thing we did, was to come up with some data <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji>:</h3>
 
 ```pl
 
