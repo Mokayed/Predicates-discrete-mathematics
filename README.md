@@ -49,7 +49,39 @@ student(tom).
 <h3>Commands in SWI-Prolog</h3>
 <p>Open the file in SWI then run those commands:</p>
 <ul>
-  <li>getStudentInfo(hallur) .</li>
+  <li>getStudentInfo(hallur) .
+    ```pl
+  getStudentInfo(A):- 
+      class(Class, A),
+      writeln(Class),
+      class_date(D, Class),
+      writeln(D).
+
+sameClass(A,B):-
+     class(Class, A),
+     class(Class,B),
+     writeln(Class).
+
+
+sameDate(A,B):-
+     class(ClassA, A),
+     class(ClassB,B),
+     class_date(StudentDate, ClassA),
+     class_date(StudentDate, ClassB),
+     writeln(StudentDate).
+     
+
+getAllStudents():-
+     forall(student(Student) ,
+     writeln(Student)) .
+
+getAllClasses():-
+     forall(room(Name), writeln(Name)) .
+
+getAllDates():-
+     forall(class_date(ClassDates, S), writeln(ClassDates)) .
+  ```
+  </li>
   <li>sameClass(mo,hallur) .</li>
   <li>sameDate(ali, tom) .</li>
   <li>getAllDates() .</li>
