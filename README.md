@@ -61,10 +61,62 @@ student(tom).
 
   ```
   </li>
-  <li>sameClass(mo,hallur) .</li>
-  <li>sameDate(ali, tom) .</li>
-  <li>getAllDates() .</li>
-  <li>getAllStudents() .</li>
-  <li>getAllClasses() .</li>
+  <li>sameClass(mo,hallur) .
+  
+  ```pl
+  
+  <li>sameClass(mo,hallur) .
+sameClass(A,B):-
+     class(Class, A),
+     class(Class,B),
+     writeln(Class).
+     
+  ```
+
+</li>
+  <li>sameDate(ali, tom) .
+  
+  ```pl
+
+sameDate(A,B):-
+     class(ClassA, A),
+     class(ClassB,B),
+     class_date(StudentDate, ClassA),
+     class_date(StudentDate, ClassB),
+     writeln(StudentDate).
+     
+   ``` 
+
+  </li>
+  
+  <li>getAllDates() .
+
+  ```pl
+getAllDates():-
+     forall(class_date(ClassDates, S), writeln(ClassDates)) .
+   ``` 
+
+</li>
+  <li>getAllStudents() .
+  
+  ```pl
+
+getAllStudents():-
+     forall(student(Student) ,
+     writeln(Student)) .
+     
+   ``` 
+
+</li>
+  <li>getAllClasses() .
+
+  ```pl
+  
+getAllClasses():-
+     forall(room(Name), writeln(Name)) .
+
+   ``` 
+   
+</li>
 </ul>
 
