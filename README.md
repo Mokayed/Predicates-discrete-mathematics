@@ -1,6 +1,6 @@
 <h1>Assignment 2 <br/>Discrete Mathematics: Student Calendar</h1>
 
-<h2>Objects are shown below</h2>
+<p>first thing we did, was to come up with some objects, the result is shown below</p>
 
 ```pl
 
