@@ -6,8 +6,6 @@
 
 ```pl
 
-
-
 class(a, mo).
 class(a, hallur) .
 class(b, lars).
