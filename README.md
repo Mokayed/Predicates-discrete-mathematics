@@ -8,10 +8,31 @@
 
 
 
-hej mo du må gerne sætte objekterne ind her
+class(a, mo).
+class(a, hallur) .
+class(b, lars).
+class(b, jens).
+class(c, ali).
+class(d, tom).
+class(a, kasper).
 
+class_date(date(2019, 7, 30), a).
+class_date(date(2019, 5, 30), b).
+class_date(date(2019, 3, 30), c).
+class_date(date(2019, 3, 30), d).
 
+room(a).
+room(b).
+room(c).
+room(d).
 
+student(mo).
+student(hallur).
+student(jens).
+student(lars).
+student(kasper).
+student(ali).
+student(tom).
 
 ```
 <p>secondly, we wrote down some ideas for methods, that had the requirement of including facts and rules</p>
