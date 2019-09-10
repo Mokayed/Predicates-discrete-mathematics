@@ -1,4 +1,4 @@
-<h1>Assignment 2 Discrete Mathematics: Student Calendar</h1>
+<h1>Assignment 2 <br/>Discrete Mathematics: Student Calendar</h1>
 
 <h2>Objects are shown below</h2>
 
