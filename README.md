@@ -12,3 +12,13 @@ hej mo du må gerne sætte objekterne ind her
 
 
 ```
+<p>secondly, we wrote down some ideas for methods, that had the requirement of including facts and rules</p>
+
+<ul>
+  <li>get all information on a student</li>
+  <li>does student a go in the same class as student b</li>
+  <li>does student a go to class the same date as student b</li>
+  <li>get all students</li>
+  <li>get all classes</li>
+  <li>get all dates</li>
+</ul>
