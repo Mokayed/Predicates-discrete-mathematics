@@ -2,7 +2,7 @@
 
 
 
-<p>First thing we did, was to come up with some objects, the result is shown below</p>
+<h3>First thing we did, was to come up with some objects, the result is shown below</h3>
 
 ```pl
 
@@ -33,7 +33,7 @@ student(ali).
 student(tom).
 
 ```
-<p>Secondly, we wrote down some ideas for methods, that had the requirement of including facts and rules</p>
+<h3>Secondly, we wrote down some ideas for methods, that had the requirement of including facts and rules</h3>
 
 <ul>
   <li>get all information on a student</li>
@@ -46,7 +46,7 @@ student(tom).
 
 <p>To see the original file, click <a href="/ass2.pl">here</a></p>
 
-<p>Commands</p>
+<h3>Commands</h3>
 <ul>
   <li>getStudentInfo(hallur) .</li>
   <li>sameClass(mo,hallur) .</li>
