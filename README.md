@@ -73,10 +73,11 @@ student(tom).
   </li>
   
   <li>
-  
+ 
+  sameClass(mo,hallur)
+ 
   ```pl
   
-  <li>sameClass(mo,hallur) .
 sameClass(A,B):-
      class(Class, A),
      class(Class,B),
