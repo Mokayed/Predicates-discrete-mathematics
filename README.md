@@ -71,7 +71,8 @@ student(tom).
 
   ```
   </li>
-  <li>sameClass(mo, hallur) .
+  
+  <li>
   
   ```pl
   
